@@ -1,9 +1,18 @@
-#Materi Presentasi
+# Materi Presentasi
+Repositori ini saya ini dengan materi - materi presentasi yang pernah saya buat dan presenteasikan sebelumnya. Baik itu untuk kepentingan lomba maupun kepentingan kuliah. _Tapi mohon maaf bila filenya berbentuk gambar, karena **menurut saya**, jika berbentuk gambar, maka hasil presetasi tidak akan rusak walau dibuka oleh software apapaun.
 
-##Deskrpisi
+## Isi Presentasi
+**File Presentasi** pada repositori ini akan selalu saya update, untuk saat ini repo ini berisi :
+- File Presentasi Tombol Panik (English version)
+- File Presentasi Tombol Panik (Indonesia version)
 
-##Lisensi
+## Lisensi
+- Kalian bebas mengembangkan baik dari desain maupun layoutnya.
 
-##Author
+## Software Yang Digunakan untuk membuat Presentasi
+- Libre Office (5.x)
+- Canva | `https://canva.com`
+
+## Author
  [Indra Kusuma](http://indrakusuma.web.id)
 
