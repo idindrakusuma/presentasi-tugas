@@ -13,6 +13,11 @@ Repositori ini saya ini dengan materi - materi presentasi yang pernah saya buat 
 - Libre Office (5.x)
 - Canva | `https://canva.com`
 
+## Daftar Isi 
+- `Slide Presentasi Mawapress | Tombol Panik`
+- `Slide Presentasi Kriptografi | Hill Cipher`
+- `Slide Presentasi Sister | Arsitektur Sistem Terdistribusi`
+
 ## Author
  [Indra Kusuma](http://indrakusuma.web.id)
 
